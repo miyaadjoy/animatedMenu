@@ -113,7 +113,7 @@ body {
 
 @media (max-width: 767px) {
   .overlay__image {
-    height: 50vh;
+    height: 60vh;
     
   }
 }
@@ -138,8 +138,8 @@ body {
 }
 @media (max-width: 767px) {
   .overlay__menu {
-    padding-top: 3.75rem;
-    height: 50vh;
+    padding-top: 1.75rem;
+    height: 40vh;
   }
 }
 
